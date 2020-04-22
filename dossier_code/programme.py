@@ -12,10 +12,15 @@ def get_primes(n):
     return primes
 
 
-a = get_primes(5)
+chiffre = int(input("Entrer un nombre n entier :"))
+print(get_primes(chiffre))
+'''
+Afficher les 5 premiers nombres premiers
+a = get_primes(5) 
 b = get_primes(25)
 c = get_primes(1000)
 
 print(a)
 print(b)
 print(c)
+'''
