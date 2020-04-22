@@ -1,4 +1,6 @@
 class Number:
+    number : int
+
     def __init__(self,number=1):
         self.number = int(number) #Nombre entier positif
 
