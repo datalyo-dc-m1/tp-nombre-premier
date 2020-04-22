@@ -1,8 +1,8 @@
-*Sujet:*
+*Sujet:Les Nombres Premiers*
 
 
 *Membres du groupe:*
 
-- Homer Simpson
-- Ned Flanders
-- Otto Bus
+- Astou CISSÉ
+- Arthur AGERON
+- Agatha LAURIAT
